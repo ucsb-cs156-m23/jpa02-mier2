@@ -1,9 +1,7 @@
 # jpa02-mier2
 
 
-https://github.com/ucsb-cs156-m23/jpa02-mier2.git
-
-Repo: https://ucsb-cs156-m23/STARTER-jpa02
+Repo: https://github.com/ucsb-cs156-m23/jpa02-mier2
 
 
 
